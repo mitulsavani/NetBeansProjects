@@ -1,5 +1,5 @@
 
-package helloworld;
+package helloworld;    //spark of code starts with Hello World
 
 public class HelloWorld
 {
